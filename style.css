@@ -1,0 +1,46 @@
+*
+{
+    font-family: 'Source Code Pro', monospace;
+}
+table
+{
+    border-collapse: collapse;
+    border: 2px solid black;
+    margin: 50px auto;
+    text-align: left;
+}
+th, td
+{
+    border: 2px solid black;
+    padding: 5px;
+    width: 300px;
+}
+.name
+{
+    font-family: monospace;
+    font-size: 17px;
+    font-weight: 500;
+}
+.phone
+{
+    font-weight: 1000;
+}
+.colors
+{
+    font-weight: 1000;
+}
+.orange
+{
+    background: orange;
+    color: white;
+}
+.blue
+{
+    background: blue;
+    color: white;
+}
+.green
+{
+    background: green;
+    color: white;
+}
